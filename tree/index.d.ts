@@ -1,2 +1,2 @@
-import { DecisionTreeClassifier, DecisionNode } from './tree';
-export { DecisionTreeClassifier, DecisionNode };
+import { DecisionNode, DecisionTreeClassifier, Question, Leaf } from './tree';
+export { DecisionNode, DecisionTreeClassifier, Question, Leaf };
